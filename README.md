@@ -1,6 +1,6 @@
 # Triptex Vite React Boilerplate
 
-
+A boilerplate for building modern web applications with Vite, React, TypeScript, Tailwind CSS, and Framer Motion.
 
 - 💻 Technical Features
   - ⚡ Built with Vite + React + TypeScript
